@@ -1,5 +1,6 @@
 **E-Commerce Sales Dashboard in Excel**
-*Project Overview*
+
+#*Project Overview*#
 
 This project showcases an interactive Sales Dashboard built using Microsoft Excel to analyze and visualize e-commerce sales data. It helps stakeholders gain insights into revenue performance, customer demographics, delivery timelines, and sales efficiency through dynamic charts and slicers.
 
@@ -61,7 +62,3 @@ The dashboard enables quick, data-driven decisions by providing a consolidated, 
 
 
 
-
-If you want, I can also create a GitHub-ready version of this README with a sample folder structure and screenshot placeholders so you can just upload your files directly.
-
-Do you want me to prepare that version too?
